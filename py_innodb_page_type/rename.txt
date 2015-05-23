@@ -1,0 +1,8 @@
+蒋承尧编写的mysql InnoDBy页面查看管理脚本
+google code:
+http://code.google.com/p/david-mysql-tools/source/browse/trunk/py_innodb_page_type/
+
+使用方法:
+root@ubuntu:~/py_innodb_page_type# python py_innodb_page_info.py -v /var/lib/mysql/ibdata1 
+
+

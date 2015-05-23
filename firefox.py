@@ -1,3 +1,1 @@
-#!/bin/evn python
-
-def 
+#!/bin/python
